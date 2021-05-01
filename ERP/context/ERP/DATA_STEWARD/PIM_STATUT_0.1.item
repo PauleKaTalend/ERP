@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_YP2PcKoUEeuuKvJVzwFyfQ">
+    <contextParameter comment="" name="STATUT_NEW" prompt="STATUT_NEW?" promptNeeded="false" type="id_String" value="NOUVEAU" xmi:id="_YP2PcaoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_ERR" prompt="STATUT_ERR?" promptNeeded="false" type="id_String" value="ERREUR" xmi:id="_YP2PcqoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_WAIT_SYNC" prompt="STATUT_WAIT_SYNC?" promptNeeded="false" type="id_String" value="PUBLIER" xmi:id="_YP2Pc6oUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_SYNC" prompt="STATUT_SYNC?" promptNeeded="false" type="id_String" value="PUBLIER" xmi:id="_YP2PdKoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_UPDATE_ERP" prompt="STATUT_UPDATE_ERP?" promptNeeded="false" type="id_String" value="MISE A JOUR ERP" xmi:id="_YP2PdaoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_UPDATE_ANNEXE" prompt="STATUT_UPDATE_ANNEXE?" promptNeeded="false" type="id_String" value="MISE A JOUR ANNEXE" xmi:id="_YP2PdqoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_TO_PUBLISH" prompt="STATUT_TO_PUBLISH?" promptNeeded="false" type="id_String" value="TO_PUBLISH" xmi:id="_YP2Pd6oUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_DESACTIVE" prompt="STATUT_DESACTIVE?" promptNeeded="false" type="id_String" value="DESACTIVE" xmi:id="_YP2PeKoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_TO_DESACTIVATE" prompt="STATUT_TO_DESACTIVATE?" promptNeeded="false" type="id_String" value="TO_DESACTIVATE" xmi:id="_YP2PeaoUEeuuKvJVzwFyfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PRODUCTION" xmi:id="_YP2PeqoUEeuuKvJVzwFyfQ">
+    <contextParameter comment="" name="STATUT_NEW" prompt="STATUT_NEW?" promptNeeded="false" type="id_String" value="NOUVEAU" xmi:id="_YP2Pe6oUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_ERR" prompt="STATUT_ERR?" promptNeeded="false" type="id_String" value="ERREUR" xmi:id="_YP2PfKoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_WAIT_SYNC" prompt="STATUT_WAIT_SYNC?" promptNeeded="false" type="id_String" value="PUBLIER" xmi:id="_YP2PfaoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_SYNC" prompt="STATUT_SYNC?" promptNeeded="false" type="id_String" value="PUBLIER" xmi:id="_YP2PfqoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_UPDATE_ERP" prompt="STATUT_UPDATE_ERP?" promptNeeded="false" type="id_String" value="MISE A JOUR ERP" xmi:id="_YP2Pf6oUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_UPDATE_ANNEXE" prompt="STATUT_UPDATE_ANNEXE?" promptNeeded="false" type="id_String" value="MISE A JOUR ANNEXE" xmi:id="_YP2PgKoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_TO_PUBLISH" prompt="STATUT_TO_PUBLISH?" promptNeeded="false" type="id_String" value="TO_PUBLISH" xmi:id="_YP2PgaoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_DESACTIVE" prompt="STATUT_DESACTIVE?" promptNeeded="false" type="id_String" value="DESACTIVE" xmi:id="_YP2PgqoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_TO_DESACTIVATE" prompt="STATUT_TO_DESACTIVATE?" promptNeeded="false" type="id_String" value="" xmi:id="_YP2Pg6oUEeuuKvJVzwFyfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="RECETTE" xmi:id="_YP2PhKoUEeuuKvJVzwFyfQ">
+    <contextParameter comment="" name="STATUT_NEW" prompt="STATUT_NEW?" promptNeeded="false" type="id_String" value="NOUVEAU" xmi:id="_YP2PhaoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_ERR" prompt="STATUT_ERR?" promptNeeded="false" type="id_String" value="ERREUR" xmi:id="_YP2PhqoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_WAIT_SYNC" prompt="STATUT_WAIT_SYNC?" promptNeeded="false" type="id_String" value="PUBLIER" xmi:id="_YP2Ph6oUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_SYNC" prompt="STATUT_SYNC?" promptNeeded="false" type="id_String" value="PUBLIER" xmi:id="_YP2PiKoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_UPDATE_ERP" prompt="STATUT_UPDATE_ERP?" promptNeeded="false" type="id_String" value="MISE A JOUR ERP" xmi:id="_YP2PiaoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_UPDATE_ANNEXE" prompt="STATUT_UPDATE_ANNEXE?" promptNeeded="false" type="id_String" value="MISE A JOUR ANNEXE" xmi:id="_YP2PiqoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_TO_PUBLISH" prompt="STATUT_TO_PUBLISH?" promptNeeded="false" type="id_String" value="TO_PUBLISH" xmi:id="_YP2Pi6oUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_DESACTIVE" prompt="STATUT_DESACTIVE?" promptNeeded="false" type="id_String" value="DESACTIVE" xmi:id="_YP2PjKoUEeuuKvJVzwFyfQ"/>
+    <contextParameter comment="" name="STATUT_TO_DESACTIVATE" prompt="STATUT_TO_DESACTIVATE?" promptNeeded="false" type="id_String" value="" xmi:id="_YP2PjaoUEeuuKvJVzwFyfQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a30f51f6-29bc-4b1e-9891-c1fa07829d42"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>5kZ4fRQYBvQdbB5mqLDRqBdf86jcHEbwOrbwvP28e3J/W7Lpx0/+y2xBXsHC3cZeK/xH8058KxFe
+Jwq2MNhqEw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_1947dfad-bbe1-4b79-ba33-f54cc0d929b1"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Zfz4BspTVRuxIHBLLNPvxjLi54Zb8zaUy3kem5mdVZKuVosTEQtvGFQlYbAUZrEoh2rD3VroBlAq
+SaZ9XNUCNg==</DigestValue></Reference></SignedInfo><SignatureValue>IvfEYPQdSidmka8Z6g3D9aokXiu4WTFOqazY6reQ6ZHxR56py0hzG43mfkAOkyiCeRDkFlJeADrp
+gRaxN5jAUnLNVMHvUzIP+XRNRQ7i/NhC8Pk1/UMlkVyu6qvjzoWyfcwGI9SHeNONj/oHHf7V+3ND
+eobbl0T3dOlx8SFpXndDz9KHXLDgVyR9keFWVkY45y1EF6Lss20430/Qnq57VlF2ZR0y7NgcKRZO
+8VXBRVR+1SmfIzd1y1g/camRILuDcR3YnXxpLQE34qR+HHkEd0LD26ZPwB0lLV8glLSn3o7RTLMA
+fzgSKkmzTwjr52y2Tn/BllqFcvIp9hab06USgQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_1947dfad-bbe1-4b79-ba33-f54cc0d929b1" Target="#_a30f51f6-29bc-4b1e-9891-c1fa07829d42"><Timestamp>2021-05-01 00:30:06</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
