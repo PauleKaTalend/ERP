@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" defaultContext="Default" jobType="Standard" xmi:version="2.0">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:NHd6tm1gvl2+m+okIDlaIDZXR7qnT/1HfUxa+U6uzTuaLJT/1pY="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:TnHzYxyh2d/CVLANPJgtz8s4d9Oo4bK+lFFKmAvgcMghtNpPj3o="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
@@ -15,7 +15,7 @@
     <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" repositoryContextId="_61ki8EzAEemc-dtBBvVzLg" type="id_String" value="ITM_PK"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:K1RRTnG+hheP8SebW+vN66pKDZvHrVnl/cau6LT3V15lrjm4RRY="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:FSkCsq7gPAB0FIBJWYyYLzgu0qK72F1iDL3VUoU6ryzSOrCE9pk="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -33,15 +33,15 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:DiTzjpDLZd63IzWkPAm+pDjZIejb7f+pDMno1skxuDgBbHitgm4UyQY="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:KaGc65sYxAQWpIIaD5TuCT8QvhGs5gQlst+3iofiqa74SBBOpXX9MPQ="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c53f099f888e93f60540331379365f81e"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cf9a22ee06f55a9ed15650ac075d97357"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c4b6364b6a0a7cad9cd5ebd2761bf4e55"/>
   </context>
   <context confirmationNeeded="false" name="Developpement">
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:xun4WjB2wuxHKmcEQOE01x01ybMWZKDozmh5VyKm6Hp0+B4/xQw="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:bz5qkxRatULwccb0k+LpZiks+0soV8tr6JE8yWSOO/k2fST8KEA="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
@@ -56,7 +56,7 @@
     <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" repositoryContextId="_61ki8EzAEemc-dtBBvVzLg" type="id_String" value="ITM_PK"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:uQC+o/lsn+SIhXRDZqCsQCFJq9iDXloJIxZJxm7KSXCk4CZMVHc="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:eppaGsdGRvc4u3qAL7yiozuiizqRQAgj+svZkQ1HbSzjjFBl3aM="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -74,15 +74,15 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:PLZMfLFhSzIXQWiaJfGUrz0fnGdHJwQPFhxiqsPR/cTENWV2ZWkmx0E="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:QjPQd8u+BmLPHYmpVmbjudpxJIJKWOIKDrUhsIqwOVE2DEsZy+W2tR4="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c53f099f888e93f60540331379365f81e"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cf9a22ee06f55a9ed15650ac075d97357"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c4b6364b6a0a7cad9cd5ebd2761bf4e55"/>
   </context>
   <context confirmationNeeded="false" name="Production">
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:hDOsuTq8P0XkhAmdYiw75nx+5wT3F67A/S/MZIeuuirNNJUw318="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:99JXeKi0pV3dpOZxsEFb1AEvKbGGBORF769yA383KoYWe52y+oA="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
@@ -97,7 +97,7 @@
     <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" repositoryContextId="_61ki8EzAEemc-dtBBvVzLg" type="id_String" value="ITM_PK"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:8RWOf03vRnCkAcXULQ0mLOk8yem81BaXH6BZrZSiwyaWi+uceKE="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:+byPhZTUSmhnbU8unoaVmQijY+GYlHlVo5IPy2bT6Vj3FnwDVJg="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -115,15 +115,15 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:tLtzK9z+TZGBRtkIdaWRD6v40F2CpzHphY+Bj3+NS+UHmcsYT4DlTzw="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:mPMDe1P4jLlEDMlVg+p9YcNTXoHXQ/DbPlNj7pGU2pYh08630yTpPRQ="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cbed271e8254305a9c1b4d1f2a4f72ad3"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="ce19fa325b3a6180fbbc6fef9dadc701d"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c57bfe22ed6a4dae76f8426f0d0369261"/>
   </context>
   <context confirmationNeeded="false" name="Recette">
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:NeiVCJ5LhXnETniooT50P0Bc+8K6z9Rgmnm862ddRfXxj1kys5s="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:aQZOs+KmE3+gluJGb3OHVR5t9vSW3ifSVZNvUGEdtAGGqWePnMw="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
@@ -138,7 +138,7 @@
     <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" repositoryContextId="_61ki8EzAEemc-dtBBvVzLg" type="id_String" value="ITM_PK"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:aZ4ef9ECmFYPM+c2M8JxZehJZ4FJ1iYrpydpTpYmItX5PiXf1Ns="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:lnZ0lvTjbzgEG1gaiGuHt/b2EvaRBhpe+dMrngvyLCkP0VpJ5YY="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -156,9 +156,9 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:6xmJdpLOhNHSmLGwI3lOB986DR7mUe4STZuMDJ0Sxcww3ko6VX5B7Hw="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:Kxg36x9DW2fgVNxOKrPrNnzCaYkTwethT97GAfTMbavZ0pc2Z8JwTp4="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cd460a8b64a4f73d01bf95470222c8162"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c23d0e91a28c95f346c40546a00a80a80"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="ccd3503b1cdfa0a020a02ba5ce477342e"/>
@@ -174,12 +174,12 @@
     <contextParameter comment="" name="DB_PK_TALEND_PORT" prompt="DB_PK_TALEND_PORT?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:hK5+SBEI2NSYtVFMNdFZN/9e0LsIkUyKfyXFp6Cv0F6pQI6e4sQ="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:v3w0TS+klPu2ecRrWSPnvIJsJtywv9MVaKfd7jCsW5L8vB63+Sc="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_ADD_PARAM" prompt="DB_PK_TALEND_ADD_PARAM?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;autoReconnect=true&amp;useSSL=false"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:Y79+cvJQfIuZD2KxF31zuDcpbDh7vtYiyYVEgEmeh0tzfoJjblY="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:189mEA7JXdWxJtyJ47zUuj02VvKLJb9l0leeLY4lYAqEgBq+A78="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -197,9 +197,9 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:1mWYcZuTKFD0PNZKyTqQLCJh29eYEdpxU55YKUUC/+toUFaYq+le4i8="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:TtUnA/31TLZUqv1qRNhEIG0TQtd2k//UeKltDFLP/ZZby+2SXa4zq5A="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cbed271e8254305a9c1b4d1f2a4f72ad3"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="ce19fa325b3a6180fbbc6fef9dadc701d"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c57bfe22ed6a4dae76f8426f0d0369261"/>
@@ -215,12 +215,12 @@
     <contextParameter comment="" name="DB_PK_TALEND_PORT" prompt="DB_PK_TALEND_PORT?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:poeQhHMYkmtyiVpZ/IAN5s0LPpJPtphaXDH3nHqS+xqfIZthFD0="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:pyQEkT5g32wZFZBvPopOpGt+3Ch3mvcE/u4ss6N9dMprMS6YCOY="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_ADD_PARAM" prompt="DB_PK_TALEND_ADD_PARAM?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;autoReconnect=true&amp;useSSL=false"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:7jkzexvMSX34VMkOqrITpptJWUkS7LYt2GNNw+mWjm5x2gDZcPI="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:rCbVn9pZRhRiW8/YH+yAMzBsXOzbzHgYXTdmucEVV1OupA5I9IU="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -238,15 +238,15 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:tglu6gLR5p16bpNuyvdTXLjhj67Ui45dJLCqSkTGdfcyvjB1UVeTHFA="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:EvxlRXk/i0JR5ZKEVNbUTrAMP6YgnaPAzH91yjtqMot1Yo6nQDtOS6w="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cd460a8b64a4f73d01bf95470222c8162"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c23d0e91a28c95f346c40546a00a80a80"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="ccd3503b1cdfa0a020a02ba5ce477342e"/>
   </context>
   <context confirmationNeeded="false" name="DEV">
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:GQcSKxdRf8wDn7dbmGCllHZmUW88tvKUUXscy0bHDWAJ7k7gqqM="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:j8yJOhrflhmROThjEvaHMDPaA0k+rm7LZqKUN5Bc1C8j/vPzgE0="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
@@ -257,7 +257,7 @@
     <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" repositoryContextId="_61ki8EzAEemc-dtBBvVzLg" type="id_String" value="ITM_PK"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:6exsYVE0Z0piGW3Lq1on9AXwTT25LT4MG9MXp6zXqOU5QZ2Nrow="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:CSd5xngRf374s07gh1ZmXPJexHVmge38zXisIfBf3YV0LBv17i8="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -279,15 +279,15 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:Oo77Lxy1P0jE/rviDJ046Z76riFaPNG1SaBlJoH/W+zR6JI5ZqBzLP8="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:9RHjpnSMVY+HP2uet0+Yv1U01YfQQbNVup/ZeVUNpukT8uFHBMhixvU="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c53f099f888e93f60540331379365f81e"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cf9a22ee06f55a9ed15650ac075d97357"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c4b6364b6a0a7cad9cd5ebd2761bf4e55"/>
   </context>
   <context confirmationNeeded="false" name="PROD">
-    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:rVaBeuAfR7mOd1KyHMzpGAkPRTowAj6u0QFeL3e803nbyjnP8sg="/>
+    <contextParameter comment="" name="DB_PK_TALEND_PASSWORD" prompt="DB_PK_TALEND_PASSWORD?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_Password" value="enc:system.encryption.key.v1:969DliegovCDLQEa6k1Aaz5YhEBS1Qvymrp2AieOsDp3I4Mta0w="/>
     <contextParameter comment="" name="DB_PK_TALEND_DATABASE" prompt="DB_PK_TALEND_DATABASE?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_LOGIN" prompt="DB_PK_TALEND_LOGIN?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="pk_talend"/>
     <contextParameter comment="" name="DB_PK_TALEND_HOST" prompt="DB_PK_TALEND_HOST?" promptNeeded="false" repositoryContextId="_WO990VAbEemm4e-ZUx7ZdQ" type="id_String" value="localhost"/>
@@ -298,7 +298,7 @@
     <contextParameter comment="ITM_PK" name="FILE_ERP_ARTICLE" prompt="FILE_ERP_ARTICLE?" promptNeeded="false" repositoryContextId="_61ki8EzAEemc-dtBBvVzLg" type="id_String" value="ITM_PK"/>
     <contextParameter comment="" name="DB_TECH_PORT" prompt="DB_TECH_PORT?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Integer" value="3306"/>
     <contextParameter comment="" name="DB_TECH_LOGIN" prompt="DB_TECH_LOGIN?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
-    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:pFO7QsgGHW2ISiRZSmZmX20vhH2T99dMrcVUNXL+pvAVc1g7bkg="/>
+    <contextParameter comment="" name="DB_TECH_PASSWORD" prompt="DB_TECH_PASSWORD?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_Password" value="enc:system.encryption.key.v1:T7A1k37lPlxDQnrYty9X8GBFR4pio1GLBC7cE0HX5dO39WzZ+OI="/>
     <contextParameter comment="" name="DB_TECH_HOST" prompt="DB_TECH_HOST?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="localhost"/>
     <contextParameter comment="" name="DB_TECH_DATABASE" prompt="DB_TECH_DATABASE?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="pk_tech"/>
     <contextParameter comment="" name="DB_TECH_ADD_PARAM" prompt="DB_TECH_ADD_PARAM?" promptNeeded="false" repositoryContextId="_-f9B4GSZEemlefGbIbAvhA" type="id_String" value="serverTimezone=UTC&amp;noDatetimeStringSync=true&amp;useSSL=false"/>
@@ -320,9 +320,9 @@
     <contextParameter comment="" name="DP_PRICE_ACTIVATION" prompt="DP_PRICE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_ACTIVATION" prompt="DP_ARTICLE_ACTIVATION?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value=""/>
     <contextParameter comment="" name="DP_ARTICLE_CROSS_SELL" prompt="DP_ARTICLE_CROSS_SELL?" promptNeeded="false" repositoryContextId="_l6YRgBdaEeqPbZSgCS-OOA" type="id_String" value="3cfb1690-6424-49f6-96e5-9931c6322689"/>
-    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userdatapk@ciemarcopolo.com"/>
-    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:KoWSoZea6CKNXQk0rJxCYLFl2+L1b+Z5nH9esGqiVETd8V/pkM5DIdg="/>
+    <contextParameter comment="" name="PK_ASSIGNE" prompt="PK_ASSIGNE?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_LOGIN" prompt="STEWARD_OWNER_LOGIN?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="userData@pauleka.com"/>
+    <contextParameter comment="" name="STEWARD_OWNER_PASSWD" prompt="STEWARD_OWNER_PASSWD?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_Password" value="enc:system.encryption.key.v1:dqj4E20Voj8uyQ8If5Cuo0BO2sVb0ttOc27Rr1X0E8tL/46G7sjPv14="/>
     <contextParameter comment="" name="PK_PIM_CATERORIE_PRODUIT" prompt="PK_PIM_CATERORIE_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c53f099f888e93f60540331379365f81e"/>
     <contextParameter comment="" name="PK_PIM_PRIX" prompt="PK_PIM_PRIX?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="cf9a22ee06f55a9ed15650ac075d97357"/>
     <contextParameter comment="" name="PK_PIM_PRODUIT" prompt="PK_PIM_PRODUIT?" promptNeeded="false" repositoryContextId="_CyIRYGBrEemHuNGJYjgwjQ" type="id_String" value="c4b6364b6a0a7cad9cd5ebd2761bf4e55"/>
@@ -354,6 +354,9 @@
     <elementParameter field="RADIO" name="FROM_DATABASE_FLAG_IMPLICIT_CONTEXT" show="false" value="false"/>
     <elementParameter field="FILE" name="IMPLICIT_TCONTEXTLOAD_FILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="FIELDSEPARATOR" show="false" value="&quot;&quot;"/>
+    <elementParameter field="CHECK" name="OVERRIDE_ENCODING_FLAG" show="false" value="false"/>
+    <elementParameter field="ENCODING_TYPE" name="OVERRIDE_ENCODING_IN_EXTRA" show="false" value="ISO-8859-15"/>
+    <elementParameter field="TECHNICAL" name="OVERRIDE_ENCODING_IN_EXTRA:ENCODING_TYPE" show="false" value="ISO-8859-15"/>
     <elementParameter field="CLOSED_LIST" name="DB_TYPE_IMPLICIT_CONTEXT" show="false" value=""/>
     <elementParameter field="CLOSED_LIST" name="DB_VERSION_IMPLICIT_CONTEXT" show="false" value=""/>
     <elementParameter field="TEXT" name="URL_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -366,7 +369,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:xRy10kYf7efzFBNBfmFt8IwsPR4IqOPX9w47YN1d"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:/QxtCr0eAe6MXZtlLaNv3TPH7o6xkCtTkKTR5PLZ"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -381,15 +384,13 @@
     <elementParameter field="CHECK" name="ON_METERCATCHER_FLAG" value="true"/>
     <elementParameter field="CHECK" name="ON_CONSOLE_FLAG" value="true"/>
     <elementParameter field="CHECK" name="ON_FILES_FLAG" value="false"/>
-    <elementParameter field="DIRECTORY" name="FILE_PATH" value="&quot;D:/WORKSPACE_STUDIO/TALEND_CLOUD_731_PK/.metadata&quot;"/>
+    <elementParameter field="DIRECTORY" name="FILE_PATH" show="false" value="&quot;D:/WORKSPACE_STUDIO/TALEND_CLOUD_731_PK/.metadata&quot;"/>
     <elementParameter field="TEXT" name="FILENAME_STATS" show="false" value="&quot;stats_file.txt&quot;"/>
-    <elementParameter field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;"/>
+    <elementParameter field="TEXT" name="FILENAME_LOGS" show="false" value="&quot;logs_file.txt&quot;"/>
     <elementParameter field="TEXT" name="FILENAME_METTER" show="false" value="&quot;meter_file.txt&quot;"/>
-    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15"/>
-    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="ISO-8859-15"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" show="false" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="ON_DATABASE_FLAG" value="false"/>
-    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE:PROPERTY_TYPE" show="false" value="BUILT_IN"/>
-    <elementParameter field="TECHNICAL" name="PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE" show="false" value=""/>
     <elementParameter field="CLOSED_LIST" name="DB_TYPE" show="false" value="tJDBCOutput"/>
     <elementParameter field="CLOSED_LIST" name="DB_VERSION" show="false" value="ORACLE_12"/>
     <elementParameter field="TEXT" name="URL" show="false" value="&quot;&quot;"/>
@@ -403,7 +404,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:mmtnb6UoUYy7awwk6FoiOKG3t6UT06IAThr2GsBk"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:AiDcmaecZKGFDXdwtzVwRvCzMRLyFl8Unvek6Aid"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -411,7 +412,7 @@
     <elementParameter field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true"/>
     <elementParameter field="CHECK" name="CATCH_USER_ERRORS" value="true"/>
     <elementParameter field="CHECK" name="CATCH_USER_WARNING" value="true"/>
-    <elementParameter field="CHECK" name="CATCH_REALTIME_STATS" show="false" value="true"/>
+    <elementParameter field="CHECK" name="CATCH_REALTIME_STATS" value="true"/>
     <elementParameter field="TEXT" name="HEADERFOOTER_HEADERID" show="false" value=""/>
     <elementParameter field="CHECK" name="HEADER_ENABLED" show="false" value="false"/>
     <elementParameter field="TEXT" name="HEADER_LIBRARY" show="false" value=""/>
@@ -422,9 +423,6 @@
     <elementParameter field="TEXT" name="FOOTER_LIBRARY" show="false" value=""/>
     <elementParameter field="TEXT" name="FOOTER_CODE" show="false" value=""/>
     <elementParameter field="TEXT" name="FOOTER_IMPORT" show="false" value=""/>
-    <elementParameter field="CHECK" name="UPDATE_COMPONENTS" value="false"/>
-    <elementParameter field="CHECK" name="STATS_DEFAULT_PROJECTSETTING" value="true"/>
-    <elementParameter field="PROPERTY_TYPE" name="PROPERTY_TYPE" value=""/>
     <routinesParameter id="_wtLvgEXiEemP6szmt9Up7A" name="DataOperation"/>
     <routinesParameter id="_wu0uQEXiEemP6szmt9Up7A" name="Mathematical"/>
     <routinesParameter id="_wvRaNkXiEemP6szmt9Up7A" name="Numeric"/>
@@ -449,7 +447,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.DB_PK_TALEND_DATABASE"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="context.DB_PK_TALEND_ADD_PARAM"/>
     <elementParameter field="TEXT" name="USER" value="context.DB_PK_TALEND_LOGIN"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:DjvlSuaOn4SD3406Mtk8j5SoDTNFVwQmsLkY8+3vbgDwNQi58T82Pw+O05wzalg4gwtqrug0MNZ+"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:a11IXdSNoDMCee61CNBF7rtp0lABAZeVEYODHpTklhGLb1glEOXkI0/EP3AaY8lh9xSfQb1d/9Am"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -650,7 +648,7 @@
     <elementParameter field="TEXT" name="PORT" show="false" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:ShUOpenqFIa38XDSBvwBzuhhdk8ItC8xUskZFCuB"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:i+ZBmyrtistRNEqj9x4s8iRys0Ox2CYcQfxDepuW"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;EXT_ANNEXE_CROSS_SELL&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="UPDATE_OR_INSERT"/>
@@ -747,7 +745,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@db10g_test&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:qTl5OiC9itFKMSyB6z0w4KX1EnNOLP/LStyDAILU"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:nt3Z5b7JSzG8zPZ84EUcY5gYA0z1MqN7ZsRodpFf"/>
     <elementParameter field="TEXT" name="PORT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION_ACCESS" show="false" value=""/>
@@ -832,7 +830,7 @@
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MySQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:z8kNAPMGgsGhnyKVO02VbN3gtVxu/9RXFZH15O8Q"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:f7geTP23gIJlx5clXF72sM0sZER4ac/rpHqTN6nS"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;TRA_UPDATE_ARTICLE&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -894,6 +892,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputExcel_1"/>
     <elementParameter field="CHECK" name="VERSION_2007" value="true"/>
     <elementParameter field="FILE" name="FILENAME" value="((String)globalMap.get(&quot;tFileList_1_CURRENT_FILEPATH&quot;))"/>
+    <elementParameter field="PASSWORD" name="PASSWORD" value="enc:system.encryption.key.v1:Lpuu6vCwa1t0hMcmmWU3JGTdWKwmjMLIJHKLrHBj"/>
     <elementParameter field="CHECK" name="ALL_SHEETS" value="false"/>
     <elementParameter field="TABLE" name="SHEETLIST">
       <elementValue elementRef="SHEETNAME" value="0"/>
@@ -1036,7 +1035,7 @@
     <elementParameter field="TEXT" name="PORT" show="false" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:U9DzhRXi1bOSjxSjDjEUa6TiCqHFFURV4y3T3sqx"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:1ARvduOsGYzs9OS33WyGzMvXjHV955vbz2bz9cZz"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;EXT_ANNEXE_CROSS_SELL&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="UPDATE_OR_INSERT"/>
@@ -1824,7 +1823,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk7"/>
   </connection>
   <subjob>
-    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" show="false" value="true"/>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPrejob_1"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="230;100;0"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="255;220;180"/>
@@ -1840,7 +1839,7 @@
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
   <subjob>
-    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" show="false" value="true"/>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPostjob_1"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="230;100;0"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="255;220;180"/>
@@ -1889,13 +1888,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_0254f1bf-ba66-4f11-8ad9-c5d82cccb1e6"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>iAB4oVUbQmciAczt0sy7jXRglw3ltQJUo+UOsVAh+pl1awlGRqys46n0CD6mC5XKef6Sj2Mizs0a
-8B5+iFea4Q==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_2e97db60-8d8f-44f2-804e-c93bd6c7b55d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9FTsdHUSk2WB6yZ1jY2JN8LGyfW45pUi/96rFbMYEk8ciYU+CZhjr3ovD3xuUzRuTjGd7zpmolXe
-qLoymbJefw==</DigestValue></Reference></SignedInfo><SignatureValue>AhFgF221SHCGbRwTBEfdMizXTTQaIVeLwpdvRes7Hrwmw5PhE90jpEeUYHMmx8mir+z5OzHc06uD
-9JA3FrgmOjj3TkgVb/XdCZGNfDcofw7PEo5205Xi730hibJZfFZoGAm5cyQidB6MSdIP4kKsWIt3
-hWaYiyBhmvCCQqabuMRc9SdaXJ72xN6XhpVH8wK5pWxgqSd0/JnzYgKwTFPkAMAmPVRAd+7yYxDN
-Hn5lVgjIitHS4IIEbhSCWMo5ByJRMTpzDjtOESPa9Ij1BVA5BhSUUn6/hGF/0GP+lv4GkhncJA3h
-cFItixOnRJNuv/0cQ9RVBGKtWRTCEnfWO3iuvQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_b72c3a54-7fa6-4e84-9e96-ab1091baea33"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>a0psMukFx/0QIDJISaD4U3EorhTjk4OWD/B/Dy4uF6ry5/LAIUefgo3OvpXXHyfqAfZXxuhOUh5X
+dkGEJx+Szw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6adbda29-952f-4350-9b61-b623288a4944"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>WqSzkjFOVKlKl/6FcsQQIqdQJ6D5FbQdptKwnJDK3REVa3Mw2NgT6sRfFSyQan21z9sk10UXLzCK
+1bsRMlNfwg==</DigestValue></Reference></SignedInfo><SignatureValue>lpFsYnCA/d4kVoA2d9Fd6seokwzPxlru155+ulpMSunokcEbyfa7jTH8mjiPNtQB7exu29h7AJIc
+XV+k5DIVC5zIjAV5CtKrmly4fqCWs75Fc/LDKuy0Ql6PiC0WjsZbeJSPKOQ1uQHwsopGXZpeywXD
+NCOPxDJ5Q9I4Dci1nedxGYWX6Grqm3mBnnzvlcjCCmYlV7dkiV62H5SN78CIuB75XPj1Vnmfoexg
++4B9U3x2DtjdcVr2Ds9fDikppYCRgVUbCo7ymX5D+xS2ON96dQXB/93ZoxsloakNV2VVq0irV4ZN
+JVAAoLttigGmQD2TuQrxs/cwWqPJlbAqU/s5wQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -1917,4 +1916,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_2e97db60-8d8f-44f2-804e-c93bd6c7b55d" Target="#_0254f1bf-ba66-4f11-8ad9-c5d82cccb1e6"><Timestamp>2021-05-01 00:46:07</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6adbda29-952f-4350-9b61-b623288a4944" Target="#_b72c3a54-7fa6-4e84-9e96-ab1091baea33"><Timestamp>2021-05-02 18:18:58</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
