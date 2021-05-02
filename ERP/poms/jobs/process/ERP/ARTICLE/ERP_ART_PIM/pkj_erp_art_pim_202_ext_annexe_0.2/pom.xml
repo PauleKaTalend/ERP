@@ -9,22 +9,22 @@
     <relativePath>../../../../../../</relativePath>
   </parent>
   <groupId>org.example.erp.job</groupId>
-  <artifactId>J_ERP_ART_PIM_202_EXT_ANNEXE</artifactId>
+  <artifactId>PKJ_ERP_ART_PIM_202_EXT_ANNEXE</artifactId>
   <version>1.11.0</version>
-  <name>ERP J_ERP_ART_PIM_202_EXT_ANNEXE-1.11.0 (0.3,Jobs)</name>
+  <name>ERP PKJ_ERP_ART_PIM_202_EXT_ANNEXE-1.11.0 (0.2,Jobs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
     <current.test.resources.dir>${basedir}/src/test/resources</current.test.resources.dir>
     <current.int-resources.dir>${basedir}/src/main/resources</current.int-resources.dir>
-    <talend.job.version>0.3</talend.job.version>
+    <talend.job.version>0.2</talend.job.version>
     <talend.project.name.lowercase>erp</talend.project.name.lowercase>
     <talend.job.path>erp</talend.job.path>
     <project.distribution-management.repository.id>${project.distributionManagement.repository.id}</project.distribution-management.repository.id>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>ERP</talend.project.name>
     <talend.product.version>7.3.1.20200219_1130</talend.product.version>
-    <talend.job.finalName>j_erp_art_pim_202_ext_annexe_0_3</talend.job.finalName>
+    <talend.job.finalName>pkj_erp_art_pim_202_ext_annexe_0_2</talend.job.finalName>
     <talend.pigudf.groupid>org.example.erp.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.erp.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
@@ -33,7 +33,7 @@
     <talend.job.context>Default</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>J_ERP_ART_PIM_202_EXT_ANNEXE</talend.job.name>
+    <talend.job.name>PKJ_ERP_ART_PIM_202_EXT_ANNEXE</talend.job.name>
     <talend.job.id>_Uw7r8GD9Eemz7uMFiJ-cUA</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.folder>erp/article/erp_art_pim/</talend.job.folder>
@@ -77,11 +77,6 @@
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-compress</artifactId>
       <version>1.19</version>
-    </dependency>
-    <dependency>
-      <groupId>commons-lang</groupId>
-      <artifactId>commons-lang</artifactId>
-      <version>2.6</version>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
@@ -180,17 +175,7 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>talendExcel-1.5-20190731</artifactId>
-      <version>6.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
       <artifactId>talend_file_enhanced_20070724</artifactId>
-      <version>6.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>talendcsv</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
