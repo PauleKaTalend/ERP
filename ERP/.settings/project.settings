@@ -67,7 +67,7 @@
         "show" : true,
         "field" : "DIRECTORY",
         "name" : "FILE_PATH",
-        "value" : "context.WORKSPACE  + concontext.PROJECT + \"/\" + context.FLOW +  \"/\" + context.DIR_LOG",
+        "value" : "context.WORKSPACE  + context.PROJECT + \"/\" + context.FLOW +  \"/\" + context.DIR_LOG",
         "contextMode" : false
       }, {
         "show" : true,
@@ -180,7 +180,7 @@
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS",
-        "value" : "enc:system.encryption.key.v1:oPpiqFMZm/5Cnq0jFoaW1plND3xxoFTdBlexMIK3",
+        "value" : "enc:system.encryption.key.v1:25OlRJtIHeDVPVnhonCp4hWHYXx1fEm4iZo9F2+7",
         "contextMode" : false
       }, {
         "show" : true,
